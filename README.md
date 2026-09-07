@@ -2,7 +2,7 @@
 
 Praktikumsprojekt **Künstliche Intelligenz** — Hochschule Bochum
 
-**Teammitglieder:** Majd Fares, Mohamad Aldabaa
+**Teammitglieder:** Majd Fares (018383717), Mohamad Aldabaa (018383957)
 
 ---
 
